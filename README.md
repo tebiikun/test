@@ -21,6 +21,11 @@ Utilizar algún package manager (npm, bower) para manejar dependencias externas.
 Utilizar una grilla responsive o similar para el maquetado.
 Optimizar todos los recursos para entornos productivos, (minificar, ofuscar, etc).
 
+## Maquetación
+
+https://github.com/tebiikun/almundo/blob/master/designs/desktop.png
+
+
 ## Build
 
 **npm install**
