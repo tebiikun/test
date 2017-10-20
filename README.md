@@ -24,10 +24,9 @@ npm install
 
 npm start
 
-/* correrá GULP y levantará un servidor local en el puerto 3000 */
+## Server
 
-para acceder -> en el navegador http://localhost:3000/
-
+http://localhost:3000/
 
 ## Demo
 
