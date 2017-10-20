@@ -1,5 +1,8 @@
 ## Consigna
 
+El exámen está compuesto por dos aplicaciones, un backend escrito en NodeJS el cual expondrá
+una API REST para la interacción con la aplicación frontend.
+
 **Ejercicio 1: API Rest NodeJS**
 Este punto consiste en armar un API REST en Node.js. El mismo será utilizado en el ejercicio 2.
 La funcionalidad de listado y filtrado de hoteles debe estar soportada por la API y
@@ -20,9 +23,9 @@ Optimizar todos los recursos para entornos productivos, (minificar, ofuscar, etc
 
 ## Build
 
-npm install
+**npm install**
 
-npm start
+**npm start**
 
 ## Server
 
@@ -32,3 +35,9 @@ http://localhost:3000/
 
 https://almundo.herokuapp.com/
 
+## Comentarios
+
+* La aplicacion se automatiza con Gulp para minificar, ofuscar, concatenar, etc
+* Los datos son estáticos tomados del json brindado
+* Hay algunas imágenes (pocas) que no se visualizan por problemas en el archivo
+* No se está utilizando ninguna BD
