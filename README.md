@@ -23,7 +23,7 @@ Optimizar todos los recursos para entornos productivos, (minificar, ofuscar, etc
 
 ## Maquetación
 
-https://github.com/tebiikun/almundo/blob/master/designs/desktop.png
+![alt text] https://github.com/tebiikun/almundo/blob/master/designs/desktop.png
 
 
 ## Build
